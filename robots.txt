@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-04cdf247db.niclasblue.cn/sitemap.xml
